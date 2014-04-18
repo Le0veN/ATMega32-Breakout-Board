@@ -1,0 +1,45 @@
+Partlist exported from D:/Fuhrer/Google Drive/WORK/Projects/Hardware/ATmega/324P 20AU BkBoard/ATmega324P 20AU breakout board.sch at 19.04.2014 1:11:52
+
+Part Value      Device                Package            Description                                   MF MPN           OC_FARNELL OC_NEWARK PROD_ID    TP_SIGNAL_NAME
+C1   0.33uF     C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+C2   18pF       C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+C3   18pF       C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+C4   0.1uF      C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+C5   0.1uF      C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+C6   10u        CPOL-EUA              PANASONIC_A        POLARIZED CAPACITOR, European symbol                                                                         
+C7   220uF      CPOL-EUE2.5-5         E2,5-5             POLARIZED CAPACITOR, European symbol                                                                         
+C8   47uF       CPOL-EUE2.5-5         E2,5-5             POLARIZED CAPACITOR, European symbol                                                                         
+C9   10uF       CPOL-EUE2-4           E2-4               POLARIZED CAPACITOR, European symbol                                                                         
+C10  0.1uF      C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+C12  0.1uF      C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+C14  1uF        C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+C15  0.01uF     C-EUC0603             C0603              CAPACITOR, European symbol                                                                                   
+CN1             JST_2PIN-THM-RA       JST-PH-2-THM-RA    JST 2-Pin Connectors of various flavors                                                                      
+D1   PMEG3050EP MBRA340T3             SMA                Surface Mount Schottky Power Rectifier                                                                       
+IC1  7805DT     7805DT                TO252              Positive VOLTAGE REGULATOR                                                                                   
+IC2  MEGA32-M   MEGA32-M              MLF44              MICROCONTROLLER                                  ATMEGA32-16MU 1455108    58M3733                            
+JP1             M03X2                 2X3-SHROUDED       2x3 .1" header.                                                                     CONN-10681               
+JP3             PINHD-1X15-CB         1X15-CB            PIN HEADER                                                                                                   
+JP4             PINHD-1X15-CB         1X15-CB            PIN HEADER                                                                                                   
+JP5             PINHD-1X1CB           1X01-CLEANBIG      Pin header 1x1 for 0.1" spacing                                                                              
+JP6             PINHD-1X1CB           1X01-CLEANBIG      Pin header 1x1 for 0.1" spacing                                                                              
+L1   100uH      INDUCTOR0805          0805               Inductors                                                                                                    
+LED1            LEDCHIPLED_0603       CHIPLED_0603       LED                                                                                                          
+LED2            LEDCHIPLED_0603       CHIPLED_0603       LED                                                                                                          
+LED3            LEDCHIPLED_0603       CHIPLED_0603       LED                                                                                                          
+LED4            LEDCHIPLED_0603       CHIPLED_0603       LED                                                                                                          
+PWR  GREEN      LEDCHIPLED_0805       CHIPLED_0805       LED                                                                                                          
+R1   10k        R-EU_R0603            R0603              RESISTOR, European symbol                                                                                    
+R2   1k         R-EU_R0402            R0402              RESISTOR, European symbol                                                                                    
+R3   1k         R-EU_R0603            R0603              RESISTOR, European symbol                                                                                    
+R4   1k         R-EU_R0402            R0402              RESISTOR, European symbol                                                                                    
+R5   1k         R-EU_R0402            R0402              RESISTOR, European symbol                                                                                    
+R6   1k         R-EU_R0402            R0402              RESISTOR, European symbol                                                                                    
+R7   1k         R-EU_R0402            R0402              RESISTOR, European symbol                                                                                    
+R8   1k         R-EU_R0402            R0402              RESISTOR, European symbol                                                                                    
+RX              LEDCHIPLED_0603       CHIPLED_0603       LED                                                                                                          
+S1              TAC_SWITCHSMD         TACTILE_SWITCH_SMD Momentary Switch                                                                                             
+SJ1             SOLDERJUMPER-OLDTRACE SJ_2S-TRACE        Solder Jumper                                                                                                
+TP1  TPTP10R    TPTP10R               TP10R              Test pad                                                                                                     
+TX              LEDCHIPLED_0603       CHIPLED_0603       LED                                                                                                          
+X1   16MHz      XTALNX5032            NX5032             Low cost SMT crystals, no capacitors included                                                                
